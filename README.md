@@ -1,4 +1,4 @@
-# Qwik test-delete ⚡️
+# Qwik Test ⚡️
 
 - File based routing and MDX support
 - Vite.js tooling.
